@@ -1,0 +1,13 @@
+img {
+  max-height: 30em;
+  object-fit: cover;
+}
+
+body {
+  background: rgb(146, 169, 189);
+  background: radial-gradient(
+    circle,
+    rgba(146, 169, 189, 1) 0%,
+    rgba(255, 239, 239, 1) 51%
+  );
+}
